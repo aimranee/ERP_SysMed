@@ -1,0 +1,10 @@
+# Dolibarr language file - en_US - categories
+CHARSET=UTF-8
+PatientsCategoriesArea=A betegterület kategóriái
+PatientIsInCustomersCategories=Ez a beteg a következő kategóriákba tartozik
+PatientsCategoryShort=Betegek kategória
+PatientsCategoriesShort=Betegkategóriák
+ThisCategoryHasNoCustomer=Ebben a kategóriában nincs beteg
+AssignedToPatients=Állítson be egy beteget
+AssignedToThePatients=Állítson be egy beteget
+CatCusListPatients=Betegkategóriák listája

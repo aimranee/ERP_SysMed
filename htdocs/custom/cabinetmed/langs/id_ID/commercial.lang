@@ -1,0 +1,15 @@
+# Dolibarr language file - en_US - commercial
+CHARSET=UTF-8
+ActionOnCompany=Acara pada pasien
+ActionOnContact=Acara di kontak
+SalesRepresentative=Diikuti oleh
+SalesRepresentatives=Diikuti oleh
+SalesRepresentativeFollowUp=Dokter (rujukan)
+SalesRepresentativeSignature=Dokter (tanda tangan)
+NoSalesRepresentativeAffected=Tidak ada dokter khusus
+ShowPatient=Tunjukkan pasien
+ListOfCustomers=Daftar pihak ketiga / pasien
+ListOfPatients=Daftar pasien
+TasksHistoryForThisContact=Tindakan tentang kontak ini
+ActionAC_FAC=Kirim konsultasi melalui email
+ActionAC_REL=Kirim ulang konsultasi melalui email

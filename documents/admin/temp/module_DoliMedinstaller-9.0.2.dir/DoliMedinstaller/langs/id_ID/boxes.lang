@@ -1,0 +1,14 @@
+# Dolibarr language file - fr_FR - boxes
+CHARSET=UTF-8
+BoxLastPatients=Pasien yang terakhir dimodifikasi
+BoxLastContacts=Kontak terakhir 
+BoxTotalUnpaidCustomerBills=Total konsultasi yang belum dibayar
+BoxTitleNbOfPatients=Jumlah pasien 
+BoxTitleLastPatients=%s Pasien yang terakhir dicatat
+BoxTitleLastModifiedPatients=%s Pasien yang dimodifikasi terakhir
+BoxTitleTotalUnpaidCustomerBills=Konsultasi yang belum dibayar 
+BoxTitleLastModifiedContacts=%s Kontak yang dimodifikasi terakhir
+NoRecordedPatients=Tidak ada pasien yang tercatat 
+NoRecordedContacts=Tidak ada kontak yang dicatat
+NoRecordedInvoices=Tidak ada konsultasi yang dicatat
+NoUnpaidCustomerBills=Tidak ada konsultasi yang belum dibayarkan

@@ -1,0 +1,37 @@
+# Dolibarr language file - en_US - admin
+CHARSET=UTF-8
+ExtraFieldsThirdParties=Atribut pelengkap (pihak ketiga/pasien)
+ExtraFieldsContacts=Atribut pelengkap (kontak)
+UseSearchToSelectCompany= Gunakan baris dengan isi secara otomatis untuk memilih seorang pasien (bukan dari daftar kombo).
+ActivityStateToSelectCompany= Tambahkan sebuah opsi pemfilteran untuk menyembunyikan/menampilkan pasien yang diikuti atau tidak diikuti
+ViewFullDateActions= Lihat semua tanggal dari tindakan ke dalam kartu pasien
+ModuleFamilyCrm=Pelanggan atau Manajemen Relasi Pasien (CRM)
+GenericMaskCodes2=<b>{cccc}</b>kode klien/pasien pada karakter n<br><b>{cccc000}</b> kode klien/pasien pada karakter n diikuti oleh penghitung yang didedikasikan untuk pelanggan. Penghitung yang didedikasikan untuk pelanggan ini disetel ulang bersamaan dengan penghitung global.<br><b>{tttt}</b> Kode tipe pihak ketiga pada n karakter (lihat kamus - jenis pihak ketiga).<br>
+
+# Modules= undefined
+Module1Name= Pihak Ketiga / Pasien
+Module1Desc= Kelola pasien dan kontak
+Permission121= Konsultasikan dengan pasien
+Permission122= Buat/modifikasi pasien (+konsultasi dan pemeriksaan)
+Permission125= Hapus pasien (+konsultasi dan pemeriksaan)
+Permission126= Ekspor data pasien
+Permission262= Perluas akses ke semua pasien (Tidak hanya mereka yang terhubung ke pengguna).<br>Tidak efektif untuk pengguna eksternal (selalu terbatas hanya pada mereka untuk proposal, pesanan, faktur, kontrak, dll).<br>Tidak efektif untuk proyek (hanya aturan tentang izin proyek, visibilitas dan hal tentang penugasan).
+Permission281= Konsultasikan semua kontak
+Permission282= Buat/ubah kontak
+Permission283= Hapus kontak kontak
+Permission286= Ekspor kontak kontak
+DictionaryCompanyType= Jenis kelamin pasien
+DictionaryCompanyJuridicalType= Jenis aktivitas pasien atau status yuridis wilayah pihak ketiga
+DictionaryTypeContact= Jenis jenis kontak
+MotifConsultation=Alasan konsultasi
+DiagnostiqueLesionnel=Diagnosis jenis lesi
+Examens=Pemeriksaan
+ExamenConclusion=Kesimpulan Pemeriksaan
+BankNameList=Daftar bank 
+
+CompanySetup= Pengaturan modul Pasien 
+CompanyCodeChecker=Model untuk menghasilkan dan memeriksa kode pasien 
+CashDeskThirdPartyForSell=Pasien generik untuk penjualan
+CashDeskBankAccountForSell=Rekening bank yang digunakan untuk uang tunai
+CashDeskBankAccountForCheque=Rekening bank yang digunakan untuk cek setoran
+CashDeskBankAccountForCB=Rekening bank yang digunakan untuk kartu kredit

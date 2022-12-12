@@ -1,0 +1,5 @@
+# Dolibarr language file - fr_FR - agenda
+CHARSET=UTF-8
+NewCompanyToDolibarr=Pasien créé
+AgendaShowBirthdayEvents=Koresponden pemberi peringatan yang lebih keras
+AgendaHideBirthdayEvents=Koresponden penerima korespondensi

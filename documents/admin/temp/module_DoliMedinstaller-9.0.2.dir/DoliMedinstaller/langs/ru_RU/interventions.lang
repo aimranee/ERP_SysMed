@@ -1,0 +1,4 @@
+# Dolibarr language file - fr_FR - interventions
+CHARSET=UTF-8
+CustomerDoesNotHavePrefix=Уровни / пациент без префикса дефини
+NameAndSignatureOfExternalContact=Nom et signature du tiers / пациент:

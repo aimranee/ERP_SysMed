@@ -1,0 +1,5 @@
+# Dolibarr language file - en_US - mails
+CHARSET=UTF-8
+MailingModuleDescContactCompanies=取引先/患者の連絡先（タイプ別）
+MailingModuleDescContactsByCompanyCategory=取引先/患者の連絡先（カテゴリー別）
+MailingModuleDescContactsByFunction=取引先/患者の連絡先（専門分野別）

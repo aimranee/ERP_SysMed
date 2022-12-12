@@ -1,0 +1,11 @@
+# Dolibarr language file - Source file is en_US - boxes
+BoxLastPatients=Últimos pacientes modificados
+BoxLastContacts=Últimos contatos
+BoxTotalUnpaidCustomerBills=Total de consultas não pagas
+BoxTitleLastPatients=Últimos %s pacientes registrados
+BoxTitleTotalUnpaidCustomerBills=Consulta não pagas
+BoxTitleLastModifiedContacts=Últimos %s contatos modificados
+NoRecordedPatients=Sem paciente registrado
+NoRecordedContacts=Sem contato registrado
+NoRecordedInvoices=Sem consulta registrada
+NoUnpaidCustomerBills=Sem consultas não pagas

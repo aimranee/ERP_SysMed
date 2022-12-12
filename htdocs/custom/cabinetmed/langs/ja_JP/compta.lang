@@ -1,0 +1,9 @@
+# Dolibarr language file - fr_FR - compta
+CHARSET=UTF-8
+PaymentCustomerInvoice=Règlement診察患者
+ListOfCustomerPayments=Listedesrèglements患者
+CustomerAccountancyCode=患者のコード
+ByPatients=パー患者
+ErrorWrongAccountancyCodeForCompany=%s に対する患者アカウントコードが不正
+COMPTA_ACCOUNT_CUSTOMER=コード互換性のある患者のデフォルト（sinondéfinisurfichepatient）
+COMPTA_ACCOUNT_SUPPLIER=コード互換性のあるfournisseurpardéfaut（sinondéfinisurfichepatient）

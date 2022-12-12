@@ -1,0 +1,37 @@
+# Dolibarr language file - en_US - admin
+CHARSET=UTF-8
+ExtraFieldsThirdParties=Atributs complementaris (tercer/pacient)
+ExtraFieldsContacts=Atributs complementaris (contactes)
+UseSearchToSelectCompany= Utilitzar un formulari de cerca per buscar pacients (en comptes de llista desplegable)<br><br>Tingueu en compte que si té un gran nombre de productes o serveis (> 100 000), pot millorar el rendiment mitjançant la constant SOCIETE_DONOTSEARCH_ANYWHERE a 1 a Configuració-> Varis. La recerca es limitarà llavors a l'inici de la cadena.
+ActivityStateToSelectCompany= Afegir un filtre en la recerca per mostrar/ocultar els pacients en actiu o que hagin deixat d'exercir
+ViewFullDateActions= Mostra la data completa de les accions en la fitxa del pacient
+ModuleFamilyCrm=Gestió de relacions amb clients o pacients (CRM)
+GenericMaskCodes2=<b>{cccc}</b> el codi de client/pacient en n caracters<br><b>{cccc000}</b> El codi de client/pacient en n caracters seguit per un contador independent per a cada client. Aquest contador dedicat al client és resetejat al mateix temps que el contador global.<br><b>{tttt}</b> El codi del tipus de tercer en n caracteres (veure diccionari tipus de tercer).<br>
+
+# Modules= undefined
+Module1Name= Tercers/Pacients
+Module1Desc= Gestió de pacients (empreses, particulars) i contactes
+Permission121= Consulta a pacient
+Permission122= Crea/modifica pacient (+consultes i exàmens)
+Permission125= Elimina pacients (+consultes i exàmens)
+Permission126= Exporta pacients
+Permission262= Amplia l'accés a tots els pacients (No només els vinculats a l'usuari).<br>No és efectiu per als usuaris externs (sempre limitats per a propostes, comandes, factures, contractes, etc.).<br>No és efectiu per a projectes (només les regles sobre permisos de projecte, visibilitat i assignació).
+Permission281= Consulta tots els contactes
+Permission282= Crea/modifica contactes
+Permission283= Elimina contactes
+Permission286= Exporta contactes
+DictionaryCompanyType= Sexe del pacient
+DictionaryCompanyJuridicalType= Tipus d'activitat de pacient o estatus jurídic dels tercers
+DictionaryTypeContact= Tipus de contactes
+MotifConsultation=Motius consulta
+DiagnostiqueLesionnel=Diagnòstics
+Examens=Exàmens mèdics
+ExamenConclusion=Conclusions exàmens
+BankNameList=Llista de bancs
+
+CompanySetup= Configuració del mòdul empreses
+CompanyCodeChecker=Mòdul de generació i control dels codis de pacients (pacients/proveïdors)
+CashDeskThirdPartyForSell=Pacient generic per vendes
+CashDeskBankAccountForSell=Compte a utilitzar per als cobraments en efectiu (caixa)
+CashDeskBankAccountForCheque=Compte bancari que s'utilitzarà per als dipòsits de xecs
+CashDeskBankAccountForCB=Compte a utilitzar per als cobraments amb targeta de crèdit

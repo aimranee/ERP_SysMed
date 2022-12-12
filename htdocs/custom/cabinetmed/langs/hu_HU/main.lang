@@ -1,0 +1,9 @@
+# Dolibarr language file - en_US - main
+CHARSET=UTF-8
+ContactsAddressesForCompany=A beteg vagy harmadik fél elérhetőségei/címei
+ActionsOnCompany=Események ezen a betegen vagy harmadik félen
+ByCompanies=Beteg által
+NbOfPatients=Betegek száma
+PatientPreview=Beteg előnézete
+ShowPatientPreview=Beteg előnézetének megjelenítése
+RefPatient=Beteg Ref.

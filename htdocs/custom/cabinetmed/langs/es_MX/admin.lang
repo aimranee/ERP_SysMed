@@ -1,0 +1,19 @@
+# Dolibarr language file - Source file is en_US - admin
+ExtraFieldsThirdParties=Atributos complementarios (terceros/paciente)
+UseSearchToSelectCompany=Usar un campo con autoterminación para seleccionar un paciente(en vez de una lista combo).
+ActivityStateToSelectCompany=Agregar una opción de filtrado para ocultar/mostrar pacientes que estan o no monitoreados.
+ViewFullDateActions=Ver fecha completa de acciónes en la tarjeta del paciente
+Module1Desc=Administrar pacientes y contactos
+Permission121=Examinar paciente
+Permission122=Crear/modificar paciente (+consultas y examenes)
+Permission125=Eliminar pacientes (+consultas y examenes)
+Permission126=Exportar pacientes
+Permission281=Consultar todos los contactos
+Permission286=Exportar contactos
+DictionaryCompanyType=Genero del paciente
+DictionaryCompanyJuridicalType=Tipo de actividad del paciente o estatus jurídico de terceros
+CompanySetup=Configurar módulo del Paciente
+CompanyCodeChecker=Forma  para generar y checar código del paciente
+CashDeskThirdPartyForSell=Paciente Genérico Para Venta
+CashDeskBankAccountForSell=Cuenta bancaria usar para efectivo
+CashDeskBankAccountForCB=Cuenta bancaria usar para tarjeta de credito

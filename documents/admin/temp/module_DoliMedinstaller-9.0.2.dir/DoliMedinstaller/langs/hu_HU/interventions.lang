@@ -1,0 +1,4 @@
+# Dolibarr language file - fr_FR - interventions
+CHARSET=UTF-8
+CustomerDoesNotHavePrefix=A harmadik fél/beteg nem rendelkezik előtaggal
+NameAndSignatureOfExternalContact=Harmadik fél/beteg neve és aláírása:

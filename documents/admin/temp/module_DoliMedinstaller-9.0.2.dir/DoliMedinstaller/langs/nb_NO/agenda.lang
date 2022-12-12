@@ -1,0 +1,5 @@
+# Dolibarr language file - fr_FR - agenda
+CHARSET=UTF-8
+NewCompanyToDolibarr=Pasient opprettet
+AgendaShowBirthdayEvents=Vis fødselsdager
+AgendaHideBirthdayEvents=Skjul matchende bursdager

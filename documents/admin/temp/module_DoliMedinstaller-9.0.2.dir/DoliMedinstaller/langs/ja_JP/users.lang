@@ -1,0 +1,11 @@
+# Dolibarr language file - fr_FR - users
+CHARSET=UTF-8
+ContactCard=連絡先記録
+NoContactCard=連絡先に記録がない
+LinkToCompanyContact=患者/連絡先をリンクする
+LinkedToDolibarrThirdParty=患者をリンクする
+CreateDolibarrThirdParty=患者を作成する
+ConfirmCreateContact=この連絡先のアカウントを作成してもよいか？
+ConfirmCreateLogin=このメンバーのアカウントを作成してもよいか？
+ConfirmCreateThirdParty=このメンバーの患者を作成してもよいか？
+NameToCreate=作成する患者の名前

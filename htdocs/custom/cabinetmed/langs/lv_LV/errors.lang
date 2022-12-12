@@ -1,0 +1,7 @@
+# Dolibarr language file - en_US - errors
+CHARSET=UTF-8
+ErrorThisContactIsAlreadyDefinedAsThisType=Šis korespondents jau ir definēts kā korespondents šim tipam
+ErrorBadPatientName=Slikts pacienta vārds
+ErrorBadCustomerCodeSyntax=Pacienta koda sintakse nav pareiza
+ErrorCustomerCodeRequired=Pacienta kods manator
+ErrorCustomerCodeAlreadyUsed=Pacienta kods jau ir izmantots

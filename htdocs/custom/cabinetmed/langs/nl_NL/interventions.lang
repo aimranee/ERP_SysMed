@@ -1,0 +1,4 @@
+# Dolibarr language file - fr_FR - interventions
+CHARSET=UTF-8
+CustomerDoesNotHavePrefix=De derde partij / patiënt heeft geen gedefinieerde prefix
+NameAndSignatureOfExternalContact=Naam en handtekening van derde partij / patiënt:

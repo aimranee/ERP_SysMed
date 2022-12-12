@@ -1,0 +1,9 @@
+# Dolibarr language file - fr_FR - compta
+CHARSET=UTF-8
+PaymentCustomerInvoice=Reglement consultatie patiënt 
+ListOfCustomerPayments=Reglementen lijst van patiënten
+CustomerAccountancyCode=Code compta patiënt
+ByPatients=Per patiënt
+ErrorWrongAccountancyCodeForCompany=Onjuiste patiëntaccountcode voor %s
+COMPTA_ACCOUNT_CUSTOMER=Standaard patiëntboekhoudingscode (indien niet gedefinieerd in patiëntendossier)
+COMPTA_ACCOUNT_SUPPLIER=Standaard boekhoudcode leverancier (indien niet gedefinieerd in patiëntendossier)

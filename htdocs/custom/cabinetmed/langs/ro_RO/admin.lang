@@ -1,0 +1,37 @@
+# Dolibarr language file - en_US - admin
+CHARSET=UTF-8
+ExtraFieldsThirdParties=Atribute complementare (terţ/pacient)
+ExtraFieldsContacts=Atribute complementare (contacte)
+UseSearchToSelectCompany= Utilizați un câmp cu completare automată pentru a selecta un pacient (în loc de o listă combo).
+ActivityStateToSelectCompany= Adăugați o opțiune de filtrare pentru a ascunde/afişa pacienții care sunt sau nu urmăriţi 
+ViewFullDateActions= Vizualizați data completă a acțiunilor în cardul pacientului
+ModuleFamilyCrm=Managementul relației cu clienţii sau pacienţii (CRM)
+GenericMaskCodes2=<b>{cccc} </b> este codul client/pacient pe n caractere <br><b>{cccc000}</b> este codul client/pacient pe n caractere este urmat de un contor dedicat pentru client. Acest contor dedicat clientului este resetat în același timp cu contorul global. <br><b>{tttt}</b>Codul tipului de la terți pe n caractere (vezi în dicționarul Tipuri terți).<br>
+
+# Modules= undefined
+Module1Name= Terţi/Pacienţi
+Module1Desc= Gestiune pacienţi şi contacte
+Permission121= Consultaţie pacient
+Permission122= Creare/modificare pacient (+ consultaţii şi examinări)
+Permission125= Şterge pacienţi (+ consultaţii şi examinări)
+Permission126= Export pacienţi
+Permission262= Extindeți accesul la toți pacienții (nu numai cei atribuiţi utilizatorilor).<br> Nu este eficient pentru utilizatorii externi (întotdeauna accesul este limitat la ei înșiși pentru propuneri, comenzi, facturi, contracte etc.). <br>Nu este eficient pentru proiecte (numai permisiunile de vizibilitate și atribuire a  proiectelor contează).
+Permission281= Consultă toate contactele
+Permission282= Creare/modificare Contacte
+Permission283= Şterge contacte
+Permission286= Export contacte
+DictionaryCompanyType= Sex pacient
+DictionaryCompanyJuridicalType= Tip activitate al pacientului sau statut juridic al terţilor
+DictionaryTypeContact= Tipuri contacte
+MotifConsultation=Motiv consultaţie
+DiagnostiqueLesionnel=Diagnostic leziune
+Examens=Examinări
+ExamenConclusion=Concluzie Examinare
+BankNameList=Lista bănci
+
+CompanySetup= Configurare modul Pacient
+CompanyCodeChecker=Model cod pacient pentru generare şi verificare
+CashDeskThirdPartyForSell=Pacient generic pentru vânzari
+CashDeskBankAccountForSell=Cont bancar pentru numerar
+CashDeskBankAccountForCheque=Cont bancar utilizat pentru depozitele cec
+CashDeskBankAccountForCB=Cont bancar pentru credit card

@@ -1,0 +1,10 @@
+# Dolibarr language file - en_US - categories
+CHARSET=UTF-8
+PatientsCategoriesArea=Espace des catégories de patients
+PatientIsInCustomersCategories=Ce patient a les tags/catégories suivantes
+PatientsCategoryShort=Catégorie patients
+PatientsCategoriesShort=Catégories patients
+ThisCategoryHasNoCustomer=Cette catégorie n'a aucun patient
+AssignedToPatients=Attribuer à un patient
+AssignedToThePatients=Attribué au patient
+CatCusListPatients=Liste des catégories patients

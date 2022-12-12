@@ -1,0 +1,5 @@
+# Dolibarr language file - fr_FR - withdrawals
+CHARSET=UTF-8
+NoInvoiceToWithdraw=Keine Patientenkonsultation in der Zahlungsart 'Lastschrift' hat eine anstehende Lastschriftanforderung. Gehen Sie auf die Registerkarte "Lastschrift" des Rechnungsformulars, um eine Anfrage zu stellen.
+ThirdPartyBankCode=Bankleitzahl des Patienten
+ThirdPartyDeskCode=Code des Patientenzählers

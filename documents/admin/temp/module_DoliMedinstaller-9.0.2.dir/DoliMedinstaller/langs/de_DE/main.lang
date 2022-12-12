@@ -1,0 +1,9 @@
+# Dolibarr language file - en_US - main
+CHARSET=UTF-8
+ContactsAddressesForCompany=Kontakte / Adressen für diesen Patienten oder Dritte
+ActionsOnCompany=Ereignisse bei diesem Patienten oder Dritten
+ByCompanies=Pro Patient
+NbOfPatients=Anzahl an Patienten
+PatientPreview=Patientenvorschau
+ShowPatientPreview=Patientenvorschau anzeigen
+RefPatient=Patientenreferenz

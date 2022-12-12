@@ -1,0 +1,37 @@
+# Dolibarr language file - en_US - admin
+CHARSET=UTF-8
+ExtraFieldsThirdParties=Extra attributen (derden/patiënt)
+ExtraFieldsContacts=Extra attributen (contacten)
+UseSearchToSelectCompany= Gebruik een veld met automatisch aanvullen om een patiënt te selecteren (in plaats van een combo lijst).
+ActivityStateToSelectCompany= Voeg een filter optie toe om patiënten te verbergen/weer te geven die niet toegestaan zijn
+ViewFullDateActions= Geef de volledige datum weer bij acties op de aptiënt kaart
+ModuleFamilyCrm=Customer or Patient Relation Management (CRM)
+GenericMaskCodes2=<b> {cccc} </b> de client / patiëntcode op n tekens <br> <b> {cccc000} </b> de client / patiëntcode op n tekens wordt gevolgd door een teller die is toegewezen aan de klant. Deze teller voor de klant wordt op hetzelfde moment opnieuw ingesteld als de globale teller. <br> <b> {tttt} </b> De code van het type van derden op n tekens (zie woordenboek-typen van derden). <br>
+
+# Modules= undefined
+Module1Name= Derde partij / Patiënten
+Module1Desc= Beheer patiënten en contacten
+Permission121= Consult patiënt
+Permission122= Creëer/wijzig patiënt (+consulten en onderzoeken)
+Permission125= Verwijder patiënten (+consulten en onderzoeken)
+Permission126= Exporteer patiënten
+Permission262= Toegang uitbreiden tot alle patiënten (niet alleen die gekoppeld zijn aan gebruiker). Niet effectief voor externe gebruikers (altijd beperkt tot zichzelf voor voorstellen, bestellingen, facturen, contracten, enz.). Niet effectief voor projecten (alleen regels over projectmachtigingen, zichtbaarheid en toewijzing zaken).
+Permission281= Consulteer alle contacten
+Permission282= Creëer/wijzig contact
+Permission283= Verwijder contacten
+Permission286= Exporteer contactcwens
+DictionaryCompanyType= Geslacht van de patiënt
+DictionaryCompanyJuridicalType= Beroep patiënt of juridische status van 3e partijen
+DictionaryTypeContact= Contact types
+MotifConsultation=Reden van consult
+DiagnostiqueLesionnel=Diagnose
+Examens=Onderzoeken
+ExamenConclusion=Onderzoeks conclusie
+BankNameList=Lijst van banken
+
+CompanySetup= Configuratie van de Patiënten module
+CompanyCodeChecker=Sjabloon om patiënt code te genereren en te controleren
+CashDeskThirdPartyForSell=Generic patiënt for sells
+CashDeskBankAccountForSell=Te gebruiken bankrekening  voor contante betalingen
+CashDeskBankAccountForCheque=Bankrekening te gebruiken voor cheques
+CashDeskBankAccountForCB=Te gebruiken bankrekening voorcredit card betalingen

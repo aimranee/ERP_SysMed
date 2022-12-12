@@ -1,0 +1,37 @@
+# Dolibarr language file - en_US - admin
+CHARSET=UTF-8
+ExtraFieldsThirdParties=Papildu atribūti (trešā puse / pacients)
+ExtraFieldsContacts=Papildu atribūti (kontakti)
+UseSearchToSelectCompany= Izmantojiet lauku ar automātisko pabeigšanu, lai atlasītu pacientu (nevis kombinēto sarakstu).
+ActivityStateToSelectCompany= Pievienojiet filtrēšanas opciju, lai paslēptu / parādītu pacientus, kas ir vai nav sekojuši
+ViewFullDateActions= Skatīt pilnu darbību datumu pacienta kartē
+ModuleFamilyCrm=Klientu vai pacientu attiecību pārvaldība (CRM)
+GenericMaskCodes2= <b> {cccc} </b> klienta / pacienta kods uz n rakstzīmēm <br> <b> {cccc000} </b> klienta / pacienta kods uz n rakstzīmēm seko skaitītājam, kas paredzēts klientam. Šis skaitītājs, kas veltīts klientam, tiek atiestatīts vienlaikus ar globālo skaitītāju. <br> <b> {tttt} </b> Trešās puses kods uz n rakstzīmēm (skat. Vārdnīcas-trešās puses tipus). <br>
+
+# Modules= undefined
+Module1Name= Trešās puses / pacienti
+Module1Desc= Pārvaldīt pacientus un kontaktus
+Permission121= Konsultēt pacientu
+Permission122= Izveidot / modificēt pacientu (+ konsultācijas un eksāmeni)
+Permission125= Pacientu dzēšana (+ konsultācijas un eksāmeni)
+Permission126= Eksportēt pacientus
+Permission262= Paplašināt piekļuvi visiem pacientiem (ne tikai tiem, kas saistīti ar lietotāju). <br> Neattiecas uz ārējiem lietotājiem (vienmēr attiecas tikai uz priekšlikumiem, pasūtījumiem, rēķiniem, līgumiem utt.). <br> Nav efektīvs projektiem (tikai noteikumi par projektu atļaujām, redzamību un piešķiršanas jautājumiem).
+Permission281= Konsultēt visus kontaktus
+Permission282= Izveidojiet / modificējiet kontaktus
+Permission283= Dzēst kontaktus
+Permission286= Eksportēt kontaktus
+DictionaryCompanyType= Pacienta dzimums
+DictionaryCompanyJuridicalType= Pacienta darbības veids vai trešo pušu juridiskais statuss
+DictionaryTypeContact= Kontaktu veidi
+MotifConsultation=Apspriešanās iemesls
+DiagnostiqueLesionnel=Kaitējuma diagnostika
+Examens=Izmeklēšanas
+ExamenConclusion=Izmeklēšanas secinājums
+BankNameList=Banku saraksts
+
+CompanySetup= Pacienta moduļa iestatīšana
+CompanyCodeChecker=Modelis, lai ģenerētu un pārbaudītu pacienta kodu
+CashDeskThirdPartyForSell=Generic pacients par pārdošanu
+CashDeskBankAccountForSell=Bankas konts, ko izmantot skaidrā naudā
+CashDeskBankAccountForCheque=Bankas konts, lai izmantotu čeku noguldījumiem
+CashDeskBankAccountForCB=Bankas konts, lai izmantotu kredītkarti

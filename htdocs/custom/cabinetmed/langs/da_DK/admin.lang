@@ -1,0 +1,37 @@
+# Dolibarr language file - en_US - admin
+CHARSET=UTF-8
+ExtraFieldsThirdParties=Supplerende attributter (tredjepart / patient)
+ExtraFieldsContacts=Supplerende attributter (kontakter)
+UseSearchToSelectCompany= Brug et felt med autompletion til at vælge en patient (i stedet for en kombinationsliste).
+ActivityStateToSelectCompany= Tilføj en filtreringsmulighed for at skjule / vise patienter, der følges eller ikke følges
+ViewFullDateActions= Se fuld dato for handlinger i patientkort
+ModuleFamilyCrm=Patienthanteringssystem (CRM)
+GenericMaskCodes2=<b> {cccc} </b> klienten / patientkoden på n tegn <br> <b> {cccc000} </b> klienten / patientkoden på n tegn efterfølges af en tæller dedikeret til kunden. Denne tæller dedikeret til kunden er nulstillet samtidig med den globale tæller. <br> <b> {tttt} </b>Koden for tredjeparts type på n tegn (se ordbog-tredjepartstyper). <br>
+
+# Modules= undefined
+Module1Name= Tredjeparter / patienter
+Module1Desc= Administrer patienter og kontakter
+Permission121= Rådfør patienten
+Permission122= Opret / modificer patient (+ konsultationer og eksamener)
+Permission125= Slet patienter (+ konsultationer og eksamener)
+Permission126= Eksporter patienter
+Permission262= Udvid adgang til alle patienter (Ikke kun dem, der er knyttet til brugeren). <br> Ikke effektiv til eksterne brugere (altid begrænset til sig selv for forslag, ordrer, fakturaer, kontrakter mv.) <br> Ikke effektiv til projekter (kun regler for projektrettigheder, synlighed og opgave sager).
+Permission281= Kontakt alle kontakter
+Permission282= Opret / modificer kontakter
+Permission283= Slet kontaktpersoner
+Permission286= Eksporter kontakter
+DictionaryCompanyType= Patientens køn
+DictionaryCompanyJuridicalType= Aktivitetstype patient eller juridisk status for tredjeparter
+DictionaryTypeContact= Typer af kontakter
+MotifConsultation=Begrundelse for konsultation
+DiagnostiqueLesionnel=Lesionsdiagnostisk
+Examens=Undersøgelser
+ExamenConclusion=Undersøgelseskonklusion
+BankNameList=Liste over banker
+
+CompanySetup= Opsætning af patientmodul
+CompanyCodeChecker=Model til at generere og tjekke patientkode
+CashDeskThirdPartyForSell=Generisk patient ved salg
+CashDeskBankAccountForSell=Bankkonto til brug for kontanter
+CashDeskBankAccountForCheque=Bankkonto, der skal bruges til checkindskud
+CashDeskBankAccountForCB=Bankkonto til brug for kreditkort

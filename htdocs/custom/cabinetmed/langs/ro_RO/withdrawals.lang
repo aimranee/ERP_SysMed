@@ -1,0 +1,5 @@
+# Dolibarr language file - fr_FR - withdrawals
+CHARSET=UTF-8
+NoInvoiceToWithdraw=Nici o consultare pacient cu metoda de plată  'Debit direct' nu are o solicitare de plată în curs. Accesați fila 'Debit' din formularul de factură pentru a face o solicitare. 
+ThirdPartyBankCode=Contul bancar al pacientului
+ThirdPartyDeskCode=Cod de ramură al pacientului

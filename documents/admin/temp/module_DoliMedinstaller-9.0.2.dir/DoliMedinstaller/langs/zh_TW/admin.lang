@@ -1,0 +1,37 @@
+# Dolibarr language file - en_US - admin
+CHARSET=UTF-8
+ExtraFieldsThirdParties=附加屬性 (第三方/病患)
+ExtraFieldsContacts=附加屬性 (聯絡人)
+UseSearchToSelectCompany= 使用具有自動完成功能的欄位來選擇患者（而不是組合列表）。
+ActivityStateToSelectCompany= 添加過濾選項來 隱藏/顯示 是否追蹤患者
+ViewFullDateActions= 在病患卡中檢視完整的操作日期
+ModuleFamilyCrm=顧客或病患關係管理（CRM）
+GenericMaskCodes2=<b> {cccc} </b> n字符 上的 顧客/病患 代碼<br> <b> {cccc000} </b> n字符 上的 顧客/病患 代碼後是專門為顧客提供的計數器。此專用於客戶的計數器與全域計數器同時重置。 <br> <b> {tttt} </b>在 n字符 上的第三方類型的代碼（請參閱字典第三方類型）。 <br>
+
+# Modules= undefined
+Module1Name= 第三方/病患
+Module1Desc= 管理 病患及聯絡人
+Permission121= 諮詢病患
+Permission122= 新建/修改 病患（+諮詢及檢查）
+Permission125= 刪除病患（+諮詢及檢查）
+Permission126= 匯出病患
+Permission262= 延伸存取權限至所有病患（不限於僅連接至使用者的那些）。 <br>對外部使用者無效（對於投標，訂單，發票，合同等，始終僅限於自己）。 <br>對專案無效（僅限於專案權限，可見性及分配規則）。
+Permission281= 諮詢所有聯絡人
+Permission282= 新建/修改 聯絡人
+Permission283= 刪除聯絡人
+Permission286= 匯出聯絡人
+DictionaryCompanyType= 病患性別
+DictionaryCompanyJuridicalType= 病患的活動類型或第三方的法律狀態
+DictionaryTypeContact= 聯繫人類型
+MotifConsultation=諮詢原因
+DiagnostiqueLesionnel=患處診斷
+Examens=檢查
+ExamenConclusion=檢查結論
+BankNameList=銀行清單
+
+CompanySetup= 病患模組設定
+CompanyCodeChecker=生成以及檢查病患碼模式
+CashDeskThirdPartyForSell=一般病患的銷售
+CashDeskBankAccountForSell=用於現金的銀行帳戶
+CashDeskBankAccountForCheque=用於支票存款的銀行帳戶
+CashDeskBankAccountForCB=用於信用卡的銀行帳戶

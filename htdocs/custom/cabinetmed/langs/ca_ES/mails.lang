@@ -1,0 +1,5 @@
+# Dolibarr language file - en_US - mails
+CHARSET=UTF-8
+MailingModuleDescContactCompanies=Contactes de tierceros/pacients
+MailingModuleDescContactsByCompanyCategory=Contactes de tierceros/pacients (per categoria)
+MailingModuleDescContactsByFunction=Contactes de tierceros/pacients (per lloc/funció)

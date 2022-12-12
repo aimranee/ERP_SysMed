@@ -1,0 +1,11 @@
+# Dolibarr language file - fr_FR - users
+CHARSET=UTF-8
+ContactCard=Catatan kontak
+NoContactCard=Tidak ada catatan di antara kontak
+LinkToCompanyContact=Tautkan pasien / kontak
+LinkedToDolibarrThirdParty=Tautkan pasien
+CreateDolibarrThirdParty=Buat pasien
+ConfirmCreateContact=Anda yakin ingin membuat akun untuk kontak ini?
+ConfirmCreateLogin=Apakah Anda yakin ingin membuat akun untuk anggota ini?
+ConfirmCreateThirdParty=Anda yakin ingin membuat pasien untuk anggota ini?
+NameToCreate=Nama pasien yang akan dibuat

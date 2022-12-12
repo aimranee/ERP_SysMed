@@ -1,0 +1,5 @@
+# Dolibarr language file - fr_FR - withdrawals
+CHARSET=UTF-8
+NoInvoiceToWithdraw=Консультация пациента Aucune в режиме предварительной подготовки без требований предварительной подготовки. Aller sur l'onglet 'Prélèvement' de la fiche facture pour faire une demande.
+ThirdPartyBankCode=Кодекс банка пациента
+ThirdPartyDeskCode=Кодекс поведения пациента

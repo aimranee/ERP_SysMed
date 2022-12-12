@@ -1,0 +1,5 @@
+# Dolibarr language file - fr_FR - agenda
+CHARSET=UTF-8
+NewCompanyToDolibarr=Pacienta kr
+AgendaShowBirthdayEvents=Efektīvāki gadadienu korespondenti
+AgendaHideBirthdayEvents=Cacher anniversaires korespondenti

@@ -1,0 +1,37 @@
+# Dolibarr language file - en_US - admin
+CHARSET=UTF-8
+ExtraFieldsThirdParties=Atributos complementares (terceiros/paciente)
+ExtraFieldsContacts=Atributos complementares (contactos)
+UseSearchToSelectCompany= Utilize um campo com conclusão automática para selecionar um doente (em vez de uma lista combo).
+ActivityStateToSelectCompany= Adicione uma opção de filtragem para ocultar/mostrar os doentes que são seguidos ou não
+ViewFullDateActions= Ver data completa das ações para a ficha do paciente
+ModuleFamilyCrm=Gestão de Relação de Cliente ou Paciente (CRM)
+GenericMaskCodes2=<b>{cccc}</b> the client/patient code on n characters<br><b>{cccc000}</b> the client/patient code on n characters is followed by a counter dedicated for customer. This counter dedicated to customer is reset at same time than global counter.<br><b>{tttt}</b> The code of third party type on n characters (see dictionary-thirdparty types).<br>
+
+# Modules= undefined
+Module1Name= Thirdparties/Patients
+Module1Desc= Gerir pacientes e contactos
+Permission121= Consulta do paciente
+Permission122= Criar/modificar paciente (+consultas e exames)
+Permission125= Eliminar pacientes (+consultas e exames)
+Permission126= Exportar pacientes
+Permission262= Extend access to all patients (Not only those linked to user).<br>Not effective for external users (always limited to themselves for proposals, orders, invoices, contracts, etc).<br>Not effective for projects (only rules on project permissions, visibility and assignement matters).
+Permission281= Consultar todos os contactos
+Permission282= Criar/modificar contactos
+Permission283= Eliminar contactos
+Permission286= Exportar contactos
+DictionaryCompanyType= Sexo do paciente
+DictionaryCompanyJuridicalType= Tipo de  atividade do doente ou estado jurídico de terceiros
+DictionaryTypeContact= Tipos de contactos
+MotifConsultation=Motivo da consulta
+DiagnostiqueLesionnel=Diagnóstico de lesão
+Examens=Exames
+ExamenConclusion=Conclusão do Exame
+BankNameList=Lista de bancos
+
+CompanySetup= Configuração do módulo de Pacientes
+CompanyCodeChecker=Modelo para gerar e verificar o código do paciente
+CashDeskThirdPartyForSell=Generic patient for sells
+CashDeskBankAccountForSell=Conta bancária para utilizar para dinheiro
+CashDeskBankAccountForCheque=Bank account to use for check deposits
+CashDeskBankAccountForCB=Conta bancária para utilizar para o cartão de crédito

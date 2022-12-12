@@ -1,0 +1,9 @@
+# Dolibarr language file - fr_FR - compta
+CHARSET=UTF-8
+PaymentCustomerInvoice=Beteg konzultációs szabályok
+ListOfCustomerPayments=A betegekre vonatkozó előírások listája
+CustomerAccountancyCode=Betegszámla kód
+ByPatients=Betegenként
+ErrorWrongAccountancyCodeForCompany=Helytelen betegszámla kód a következőhöz: %s
+COMPTA_ACCOUNT_CUSTOMER=Alapértelmezett betegkönyvelési kód (ha nincs megadva a betegfájlban)
+COMPTA_ACCOUNT_SUPPLIER=Alapértelmezett szállítói elszámolási kód (ha nincs megadva a betegállományban)

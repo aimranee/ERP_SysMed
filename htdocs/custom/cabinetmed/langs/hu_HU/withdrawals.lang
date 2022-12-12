@@ -1,0 +1,5 @@
+# Dolibarr language file - fr_FR - withdrawals
+CHARSET=UTF-8
+NoInvoiceToWithdraw=Nincs függőben lévő csoportos beszedési megbízás a „Beszedési” fizetési módban a páciens konzultációján. A kérelem benyújtásához lépjen a számlafájl „Tartás” fülére.
+ThirdPartyBankCode=Beteg bank kódja
+ThirdPartyDeskCode=Beteg rendezési kód

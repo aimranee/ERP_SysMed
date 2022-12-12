@@ -1,0 +1,7 @@
+# Dolibarr language file - en_US - errors
+CHARSET=UTF-8
+ErrorThisContactIsAlreadyDefinedAsThisType=Этот корреспондент уже определен как соответствующий этому типу.
+ErrorBadPatientName=Плохое имя пациента
+ErrorBadCustomerCodeSyntax=Неправильный синтаксис кода пациента
+ErrorCustomerCodeRequired=Код пациента обязательный
+ErrorCustomerCodeAlreadyUsed=Код пациента уже использован

@@ -1,0 +1,37 @@
+# Dolibarr language file - en_US - admin
+CHARSET=UTF-8
+ExtraFieldsThirdParties=補完的な属性（取引先/患者）
+ExtraFieldsContacts=補完的な属性（連絡先）
+UseSearchToSelectCompany= （コンボリストの代わりに）患者を選択するには、完全なフィールドを使用する。
+ActivityStateToSelectCompany= フォローされている、またはフォローされていない患者を非表示/表示するフィルタリングオプションを追加する
+ViewFullDateActions= アクションの完全な日付を患者カードに表示する
+ModuleFamilyCrm=顧客または患者関係管理（CRM）
+GenericMaskCodes2= <b> {cccc} </b>n文字のクライアント/患者コード<br><b> {cccc000} </b>お客様専用のこのカウンターは、グローバルカウンターと同時にリセットされる。 <br> <b> {tttt} </b> n文字の取引先タイプのコード（辞書-取引先タイプを参照）。 <br>
+
+# Modules= undefined
+Module1Name= 取引先/患者
+Module1Desc= 患者と連絡先を管理する
+Permission121= 患者に診察する
+Permission122= 患者の作成/変更（+診察と検査）
+Permission125= 患者を削除する（+診察と検査）
+Permission126= 患者の輸出
+Permission262= すべての患者（ユーザーにリンクされている患者だけでなく）へのアクセスを拡張する。 <br>外部ユーザーには効果的ではない（提案、注文、請求書、契約などについては常に自分自身に限定される）。 <br>プロジェクトには効果的ではない（プロジェクトの権限、可視性、および割り当てに関するルールのみ）。
+Permission281= すべての連絡先に診察する
+Permission282= 連絡先を作成/変更する
+Permission283= 連絡先を削除する
+Permission286= 連絡先をエクスポートする
+DictionaryCompanyType= 患者の性別
+DictionaryCompanyJuridicalType= 患者の活動タイプまたは取引先の法的地位
+DictionaryTypeContact= 連絡先の種類
+MotifConsultation=診察の理由
+DiagnostiqueLesionnel=病変診断
+Examens=試験
+ExamenConclusion=試験の結論
+BankNameList=銀行のリスト
+
+CompanySetup= 患者モジュールのセットアップ
+CompanyCodeChecker=患者コードを生成およびチェックするためのモデル
+CashDeskThirdPartyForSell=販売のためのジェネリック患者
+CashDeskBankAccountForSell=現金に使用する銀行口座
+CashDeskBankAccountForCheque=小切手預金に使用する銀行口座
+CashDeskBankAccountForCB=クレジットカードに使用する銀行口座

@@ -1,0 +1,15 @@
+# Dolibarr language file - en_US - commercial
+CHARSET=UTF-8
+ActionOnCompany=Esemény a betegről
+ActionOnContact=Esemény az elérhetőségen
+SalesRepresentative=Következett
+SalesRepresentatives=Következett
+SalesRepresentativeFollowUp=Orvosok (referens)
+SalesRepresentativeSignature=Orvosok (aláírás)
+NoSalesRepresentativeAffected=Nincs konkrét orvos
+ShowPatient=Mutasd meg a beteget
+ListOfCustomers=Harmadik felek/betegek listája
+ListOfPatients=Betegek listája
+TasksHistoryForThisContact=A kapcsolattartóval kapcsolatos műveletek
+ActionAC_FAC=Tanácsadás e-mailben
+ActionAC_REL=A konzultáció újraküldése e-mailben

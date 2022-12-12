@@ -1,0 +1,5 @@
+# Dolibarr language file - en_US - mails
+CHARSET=UTF-8
+MailingModuleDescContactCompanies=Contacts/Correspondants des tiers/patients (par type)
+MailingModuleDescContactsByCompanyCategory=Contacts/Correspondants de tiers/patients (par catégorie)
+MailingModuleDescContactsByFunction=Contacts/Correspondants de tiers/patients (par spécialité)

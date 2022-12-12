@@ -1,0 +1,11 @@
+# Dolibarr language file - fr_FR - users
+CHARSET=UTF-8
+ContactCard=Kapcsolatfelvételi rekord
+NoContactCard=Nincs rekord a kapcsolatok között
+LinkToCompanyContact=Kapcsolja össze a beteget/kapcsolattartót
+LinkedToDolibarrThirdParty=Beteg hivatkozás
+CreateDolibarrThirdParty=Hozzon létre egy beteget
+ConfirmCreateContact=Biztosan létrehoz egy fiókot ehhez a névjegyhez?
+ConfirmCreateLogin=Biztosan létrehoz egy fiókot ennek a tagnak?
+ConfirmCreateThirdParty=Biztos benne, hogy beteget kíván létrehozni ennek a tagnak?
+NameToCreate=A létrehozandó beteg neve

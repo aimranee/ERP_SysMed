@@ -1,0 +1,37 @@
+# Dolibarr language file - en_US - admin
+CHARSET=UTF-8
+ExtraFieldsThirdParties=Ergänzende Attribute (Geschäftspartner/Patient)
+ExtraFieldsContacts=Ergänzende Attribute (Kontakte)
+UseSearchToSelectCompany= Verwenden Sie ein Feld mit automatischer Vervollständigung, um einen Patienten auszuwählen (anstelle einer Combo-Liste).
+ActivityStateToSelectCompany= Füge eine Filteroption hinzu, um Patienten aus- oder einzublenden, denen gefolgt wird oder nicht
+ViewFullDateActions= Zeige vollständige Daten der Aktionen auf der Patientenkarte an
+ModuleFamilyCrm=Kontakt-/Patientenverwaltung
+GenericMaskCodes2= <b> {cccc} </b> der Client / Patienten-Code für n Zeichen <br> <b> {cccc000} </b> dem Kunden-/Patientencode auf n Zeichen folgt ein für den Kunden bestimmter Zähler. Dieser dem Kunden zugewiesene Zähler wird gleichzeitig mit dem globalen Zähler zurückgesetzt. <br> <b> {tttt} </b> Der Code des Drittanbieter-Typs für n Zeichen (siehe Wörterbuch-Drittanbieter-Typen). <br>
+
+# Modules= undefined
+Module1Name= Geschäftspartner/Patienten
+Module1Desc= Verwalte Patienten & Kontakte
+Permission121= Ansicht jeweiliges Patienten der Benutzer
+Permission122= Erstelle / Ändere Patient  (+ Berichte)
+Permission125= Patienten löschen (+ Konsultationen und Untersuchungen)
+Permission126= Patienten exportieren
+Permission262= Erweitern Sie den Zugriff auf alle Patienten (nicht nur auf die mit dem Benutzer verknüpften). <br> Nicht wirksam für externe Benutzer (immer auf sich selbst beschränkt für Vorschläge, Bestellungen, Rechnungen, Verträge usw.). <br> Nicht wirksam für Projekte (nur Regeln zu Projektberechtigungen, Sichtbarkeit und Zuweisung).
+Permission281= Konsultieren Sie alle Kontakte
+Permission282= Kontakte erstellen/verändern
+Permission283= Kontakte löschen
+Permission286= Kontakte exportieren
+DictionaryCompanyType= Geschlecht des Patienten
+DictionaryCompanyJuridicalType= Aktivitätsart des Patienten oder Rechtsstatus von Dritten
+DictionaryTypeContact= Art des Kontakts
+MotifConsultation=Grund der Untersuchung
+DiagnostiqueLesionnel=Läsionsdiagnose
+Examens=Untersuchungen
+ExamenConclusion=Untersuchungsergebnis
+BankNameList=Liste der Banken
+
+CompanySetup= Einrichtung des Patientenmoduls
+CompanyCodeChecker=Modell, um den Patientencode zu erstellen und zu prüfen
+CashDeskThirdPartyForSell=Generischer Patient für Verkäufe
+CashDeskBankAccountForSell=Bankkonto für Bargeld
+CashDeskBankAccountForCheque=Bankkonto für Scheckeinzahlungen
+CashDeskBankAccountForCB=Bankkonto für Kreditkarte

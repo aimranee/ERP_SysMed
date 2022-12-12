@@ -1,0 +1,37 @@
+# Dolibarr language file - en_US - admin
+CHARSET=UTF-8
+ExtraFieldsThirdParties=Doplňkové atributy (třetí strana / pacient)
+ExtraFieldsContacts=Doplňkové atributy (kontakty)
+UseSearchToSelectCompany= Použijte pole s automatickým doplněním k výběru pacienta (místo seznamu combo).
+ActivityStateToSelectCompany= Přidejte možnost filtrování, abyste mohli skrýt / zobrazit pacienty, kteří jsou nebo nejsou následováni
+ViewFullDateActions= Zobrazit celé datum akcí na kartě pacienta
+ModuleFamilyCrm=Řízení vztahů se zákazníky nebo pacienty (CRM)
+GenericMaskCodes2= <b> {cccc} </b> kód klienta / pacienta na n znakech <br> <b> {cccc000} a09a4b039b179f739f1707 a09a4b039b09a4z09 Tento čítač vyhrazený zákazníkovi je resetován současně s globálním čítačem. <br> <b> {tttt} </b> Kód typu třetí strany na n znakech (viz typy slovník-třetí strana). <br>
+
+# Modules= undefined
+Module1Name= Třetí strany / pacienti
+Module1Desc= Správa pacientů a kontaktů
+Permission121= Poraďte se s pacientem
+Permission122= Vytvořit / upravit pacienta (+ konzultace a zkoušky)
+Permission125= Smazat pacienty (+ konzultace a zkoušky)
+Permission126= Export pacientů
+Permission262= Rozšířit přístup ke všem pacientům (nejen těm, kteří jsou spojeni s uživatelem). <br> Není efektivní pro externí uživatele (vždy omezeno na sebe pro návrhy, objednávky, faktury, smlouvy atd.). <br> Není efektivní pro projekty (pouze pravidla pro povolení projektu, viditelnost a přiřazení záležitostí).
+Permission281= Obraťte se na všechny kontakty
+Permission282= Vytvářejte / upravujte kontakty
+Permission283= Smazat kontakty
+Permission286= Export kontaktů
+DictionaryCompanyType= Pohlaví pacienta
+DictionaryCompanyJuridicalType= Typ aktivity pacienta nebo právní status třetích stran
+DictionaryTypeContact= Typy kontaktů
+MotifConsultation=Důvod konzultace
+DiagnostiqueLesionnel=Diagnostika lézí
+Examens=Zkoušky
+ExamenConclusion=Závěr zkoušky
+BankNameList=Seznam bank
+
+CompanySetup= Nastavení modulu pacienta
+CompanyCodeChecker=Model pro generování a kontrolu kódu pacienta
+CashDeskThirdPartyForSell=Generický pacient na prodej
+CashDeskBankAccountForSell=Bankovní účet k použití za hotovost
+CashDeskBankAccountForCheque=Bankovní účet, který chcete použít pro vklady šeků
+CashDeskBankAccountForCB=Bankovní účet pro kreditní kartu

@@ -1,0 +1,15 @@
+# Dolibarr language file - en_US - commercial
+CHARSET=UTF-8
+ActionOnCompany=Notikums pacientam
+ActionOnContact=Notikums kontaktā
+SalesRepresentative=Seko
+SalesRepresentatives=Seko
+SalesRepresentativeFollowUp=Ārsti (referents)
+SalesRepresentativeSignature=Ārsti (paraksts)
+NoSalesRepresentativeAffected=Nav īpaša ārsta
+ShowPatient=Rādīt pacientu
+ListOfCustomers=Trešo pušu / pacientu saraksts
+ListOfPatients=Pacientu saraksts
+TasksHistoryForThisContact=Darbības saistībā ar šo kontaktu
+ActionAC_FAC=Nosūtīt konsultācijas pa e-pastu
+ActionAC_REL=Pārsūtiet konsultācijas pa e-pastu

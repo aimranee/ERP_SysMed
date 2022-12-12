@@ -1,0 +1,5 @@
+# Dolibarr language file - fr_FR - withdrawals
+CHARSET=UTF-8
+NoInvoiceToWithdraw=使用“直接付款”付款方式的病患諮詢均沒有待處理的直接付款請求。 轉到發票清單的“直接付款”標籤以進行請求。
+ThirdPartyBankCode=病患銀行代碼
+ThirdPartyDeskCode=病患計數器代碼

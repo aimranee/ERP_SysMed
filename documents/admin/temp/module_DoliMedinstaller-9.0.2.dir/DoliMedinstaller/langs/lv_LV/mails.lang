@@ -1,0 +1,5 @@
+# Dolibarr language file - en_US - mails
+CHARSET=UTF-8
+MailingModuleDescContactCompanies=Trešo pušu / pacientu kontaktinformācija (pēc veida)
+MailingModuleDescContactsByCompanyCategory=Trešo pušu / pacientu kontaktinformācija (pēc kategorijas)
+MailingModuleDescContactsByFunction=Trešo pušu / pacientu kontaktinformācija (pēc specialitātes)

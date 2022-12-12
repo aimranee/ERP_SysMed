@@ -1,0 +1,37 @@
+# Dolibarr language file - en_US - admin
+CHARSET=UTF-8
+ExtraFieldsThirdParties=Kiegészítő attribútumok (harmadik fél / beteg)
+ExtraFieldsContacts=Kiegészítő attribútumok (kapcsolattartók)
+UseSearchToSelectCompany= A páciens kiválasztásához használjon automatikus kitöltést tartalmazó mezőt (kombinált lista helyett).
+ActivityStateToSelectCompany= Adjon hozzá egy szűrési lehetőséget a követett vagy nem követett betegek elrejtéséhez/megjelenítéséhez
+ViewFullDateActions= Az akciók teljes dátumának megtekintése a betegkártyán
+ModuleFamilyCrm=Ügyfél- vagy betegkapcsolatkezelés (CRM)
+GenericMaskCodes2=<b>{cccc}</b> a kliens/beteg kód n karakterből áll<br><b>{cccc000}</b>az n karakteres kliens/beteg kódot az ügyfél számára kijelölt számláló követi. Ez az ügyfélnek szánt számláló a globális számlálóval egyidejűleg nullázódik.<br><b>{tttt}</b> A harmadik fél típusának kódja n karakterből áll (lásd szótár-harmadik fél típusok).<br>
+
+# Modules= undefined
+Module1Name= Harmadik felek/Betegek
+Module1Desc= Kezelje a betegeket és a kapcsolatokat
+Permission121= Konzultáljon beteggel
+Permission122= Beteg létrehozása/módosítása (+konzultációk és vizsgálatok)
+Permission125= Betegek törlése (+konzultációk és vizsgálatok)
+Permission126= Betegek exportálása
+Permission262= A hozzáférés kiterjesztése minden páciensre (nem csak a felhasználóhoz kapcsolt betegekre). <br> Nem hatékony külső felhasználók számára (mindig magukra korlátozódnak az ajánlatok, megrendelések, számlák, szerződések stb. esetében). <br> Projektekre nem érvényes (csak a projektengedélyekre, a láthatóságra és a hozzárendelésre vonatkozó szabályok).
+Permission281= Keresse fel az összes elérhetőséget
+Permission282= Névjegyek létrehozása/módosítása
+Permission283= Névjegyek törlése
+Permission286= Névjegyek exportálása
+DictionaryCompanyType= A beteg neme
+DictionaryCompanyJuridicalType= A páciens tevékenységtípusa vagy harmadik felek jogi státusza
+DictionaryTypeContact= Kapcsolatok típusai
+MotifConsultation=A konzultáció oka
+DiagnostiqueLesionnel=Elváltozás diagnosztika
+Examens=Vizsgák
+ExamenConclusion=Vizsga következtetései
+BankNameList=A bankok listája
+
+CompanySetup= A betegmodul beállítása
+CompanyCodeChecker=Modell a pácienskód generálásához és ellenőrzéséhez
+CashDeskThirdPartyForSell=Általános türelem az eladásokhoz
+CashDeskBankAccountForSell=Készpénzszámla
+CashDeskBankAccountForCheque=Bankszámla a csekkbefizetések számára
+CashDeskBankAccountForCB=Bankkártya hitelkártya használatához

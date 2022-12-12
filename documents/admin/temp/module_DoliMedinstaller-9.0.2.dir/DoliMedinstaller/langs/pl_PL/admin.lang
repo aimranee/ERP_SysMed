@@ -1,0 +1,37 @@
+# Dolibarr language file - en_US - admin
+CHARSET=UTF-8
+ExtraFieldsThirdParties=Atrybuty uzupełniające (kontrahenta/pacjenta)
+ExtraFieldsContacts=Atrybuty uzupełniające (kontakty)
+UseSearchToSelectCompany= Użyj pola z auto-uzupełnieniem by wybrać pacjenta (zamiast listy rozwijanej).
+ActivityStateToSelectCompany= Dodaj opcje filtra by ukryć/pokazać pacjentów, którzy nie są obserwowani
+ViewFullDateActions= Pokaż pełny zakres czasowy akcji dla karty pacjenta
+ModuleFamilyCrm=Zarządzanie relacjami z klientami lub pacjentami (CRM)
+GenericMaskCodes2= <b> {cccc} </b> kod klienta/pacjenta na n znakach <br> <b> {cccc000} a09a4b739n na kliencie/pacjent znak dla <b> {cccc000} Licznik ten dedykowany klientowi jest resetowany w tym samym czasie co licznik globalny. <br> <b> {tttt} </b> Kod typu strony trzeciej na n znakach (patrz typy słownikowe). <br>
+
+# Modules= undefined
+Module1Name= Osoby trzecie/Pacjenci
+Module1Desc= Zarządzaj pacjentami i kontaktami
+Permission121= Skonsultuj pacjenta
+Permission122= Tworzenie / modyfikowanie pacjenta (+ konsultacje i testy)
+Permission125= Usuń pacjentów (+konsultacje i testy)
+Permission126= Eksport pacjentów
+Permission262= Rozszerz dostęp na wszystkich pacjentów (nie tylko tych powiązanych z użytkownikiem). <br> Nieskuteczne dla użytkowników zewnętrznych (zawsze ograniczone do siebie w przypadku ofert, zamówień, faktur, umów itp.). <br> Nie ma zastosowania w przypadku projektów (ważne są tylko zasady dotyczące uprawnień do projektów, widoczności i przydziału).
+Permission281= Skonsultuj wszystkie kontakty
+Permission282= Tworzenie / modyfikacja kontaktów
+Permission283= Usuwanie kontaktów
+Permission286= Eksport kontaktów
+DictionaryCompanyType= Płeć pacjenta
+DictionaryCompanyJuridicalType= Rodzaj aktywności pacjenta lub prawnego statusu kontrahentów
+DictionaryTypeContact= Rodzaje kontaktów
+MotifConsultation=Powód konsultacji
+DiagnostiqueLesionnel=Defekt diagnostyczny
+Examens=Egzaminy
+ExamenConclusion=Uwagi z egzaminu
+BankNameList=Lista banków
+
+CompanySetup= Konfiguracja modułu pacjenta
+CompanyCodeChecker=Model do generowania i sprawdzenia kodu pacjenta
+CashDeskThirdPartyForSell=Ogólny pacjent do sprzedaży
+CashDeskBankAccountForSell=Konto bankowe dla gotówki
+CashDeskBankAccountForCheque=Konto bankowe do wpłat czekowych
+CashDeskBankAccountForCB=Konto bankowe aby użyć karty kredytowej
