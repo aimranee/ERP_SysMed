@@ -15898,3 +15898,8 @@ ENGINE=innodb;
 2022-12-05 10:33:03 DEBUG   ::1              functions.lib::dol_mkdir: Directory 'C:/xampp/htdocs/dolibarr-develop2/documents/users/temp' created
 2022-12-05 10:33:03 DEBUG   ::1             COMMIT Transaction
 2022-12-05 10:33:03 DEBUG   ::1             Conf::setValues
+2022-12-15 12:19:35 DEBUG   ::1             - check: Dolibarr install/upgrade process started
+2022-12-15 12:19:35 DEBUG   ::1             check: conf file '../conf/conf.php' already defined
+2022-12-15 12:19:35 DEBUG   ::1             DoliDBMysqli::connect host=localhost, port=3306, login=root, passwd=--hidden--, name=
+2022-12-15 12:19:35 DEBUG   ::1             DoliDBMysqli::select_db database=dolibarr3
+2022-12-15 12:19:35 DEBUG   ::1             Conf::setValues
